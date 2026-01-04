@@ -62,7 +62,8 @@ I focus on **learning by building**, not just collecting technologies.
 
 ## 🤝 Connect With Me
 
-- 📧 Email: hetshah3303@gmail.com  
+- 🌐 Portfolio: www.hetshah.cloud
+- 📧 Email: hetshahworks@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/het-shah-917501227/  
 - 🧠 HackerRank / LeetCode / GitHub: Active problem solver  
 
